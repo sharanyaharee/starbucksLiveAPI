@@ -64,20 +64,23 @@
 
 
    Update Order Status
-    * https://starbucks-b7dh.onrender.com/updateOrder
+   
+   * https://starbucks-b7dh.onrender.com/updateOrder
         {
             "_id": "648357413f19ffdb26063d16",
             "status": "Delivered"
             }
 
    Delete Order
-    * https://starbucks-b7dh.onrender.com/deleteOrder
+   
+   * https://starbucks-b7dh.onrender.com/deleteOrder
             {
              "_id": "6485ba02a60e16c795c55c81",
             }
 
 
    List of all orders
+   
   * https://starbucks-b7dh.onrender.com/orders
       
   * https://starbucks-b7dh.onrender.com/orders?email=amit@gmail.com
