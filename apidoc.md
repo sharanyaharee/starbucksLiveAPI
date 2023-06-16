@@ -78,5 +78,6 @@
 
 
    List of all orders
-      * https://starbucks-b7dh.onrender.com/orders
-      * https://starbucks-b7dh.onrender.com/orders?email=amit@gmail.com
+  * https://starbucks-b7dh.onrender.com/orders
+      
+  * https://starbucks-b7dh.onrender.com/orders?email=amit@gmail.com
