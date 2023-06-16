@@ -3,11 +3,10 @@
 
   //page 1:
   
-      All menu Categories
-      
-      *https://starbucks-b7dh.onrender.com/menu
+   All menu Categories 
+   *https://starbucks-b7dh.onrender.com/menu
 
-      All stores
+    All stores
       *https://starbucks-b7dh.onrender.com/store
 
       Featured Item1
